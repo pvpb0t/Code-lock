@@ -1,0 +1,9 @@
+C:\Users\ferper07\OneDrive - Lärande\Programering1\Code\if7\bin\Release\if7.exe.config
+C:\Users\ferper07\OneDrive - Lärande\Programering1\Code\if7\bin\Release\if7.exe
+C:\Users\ferper07\OneDrive - Lärande\Programering1\Code\if7\bin\Release\if7.pdb
+C:\Users\ferper07\OneDrive - Lärande\Programering1\Code\if7\obj\Release\if7.Form1.resources
+C:\Users\ferper07\OneDrive - Lärande\Programering1\Code\if7\obj\Release\if7.Properties.Resources.resources
+C:\Users\ferper07\OneDrive - Lärande\Programering1\Code\if7\obj\Release\if7.csproj.GenerateResource.cache
+C:\Users\ferper07\OneDrive - Lärande\Programering1\Code\if7\obj\Release\if7.csproj.CoreCompileInputs.cache
+C:\Users\ferper07\OneDrive - Lärande\Programering1\Code\if7\obj\Release\if7.exe
+C:\Users\ferper07\OneDrive - Lärande\Programering1\Code\if7\obj\Release\if7.pdb
